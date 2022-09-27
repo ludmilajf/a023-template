@@ -57,7 +57,7 @@ footer {
 }
 
 figure {
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0.934);
     height: 200px;
     width: 160px;
     background-color: beige;
